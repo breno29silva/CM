@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Awareness</string>
+    <string name="awareness_api_key"  translatable="false" >AIzaSyAhiQKHF0ZYzFBMUgnH6gvyg-bRVUh1kAA</string>
+    <string name="YOU_WALKING">You\'re walking</string>
+    <string name="select_option">Select an option</string>
+    <string name="fence_enabled">Fence enabled</string>
+
+    <!-->buttons<-->
+    <string name="btn_Fence" translatable="false">Fence</string>
+    <string name="btn_Snapshot" translatable="false">Snapshot</string>
+
+    <!-->Detecte Activity<-->
+    <string name="IN_VEHICLE">IN VEHICLE</string>
+    <string name="ON_BICYCLE">ON BICYCLE</string>
+    <string name="ON_FOOT">ON FOOT</string>
+    <string name="STILL">STILL</string>
+    <string name="UNKNOWN">UNKNOWN</string>
+    <string name="TILTING">TILTING</string>
+    <string name="WALKING">WALKING</string>
+    <string name="RUNNING">RUNNING</string>
+</resources>

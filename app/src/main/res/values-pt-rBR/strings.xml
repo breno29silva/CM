@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="YOU_WALKING">Você está caminhando</string>
+    <string name="select_option">Selecione uma opção</string>
+    <string name="fence_enabled">Fence habilitado</string>
+    <!-->Detecte Activity<-->
+    <string name="IN_VEHICLE">EM UM VEÍCULO</string>
+    <string name="ON_BICYCLE">EM UMA MOTO</string>
+    <string name="STILL">REPOUSO</string>
+    <string name="RUNNING">CORRENDO</string>
+    <string name="WALKING">CAMINHANDO</string>
+    <string name="UNKNOWN">DESCONHECIDO</string>
+    <string name="ON_FOOT">ANDANDO RÁPIDO</string>
+    <string name="TILTING">INCLINADO</string>
+</resources>
